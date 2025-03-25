@@ -7,3 +7,5 @@ Another code
 file two is already updated.
 
 main branch is ahead of employe
+
+another fix message for purple mode
